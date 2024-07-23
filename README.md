@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YawnPal9
-- 👀 I’m interested in Music, Movies, Veggies, and anything fun. 
+- 👀 I’m interested in Music, Movies, Food, and anything fun. 
 - 🌱 I’m currently learning adulting.
 - 💞️ I’m looking to collaborate on innovate and intriguing projects with others who love to learn as well.
 - 📫 Reach me via here. 
