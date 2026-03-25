@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dana Franklin</h1>
+<h1 align="center">Hi 👋🏾, I'm Dana Franklin</h1>
 <h3 align="center">Computer Science Student | Aspiring Cybersecurity Professional | STEM Educator</h3>
 
 ---
