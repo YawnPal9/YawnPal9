@@ -4,7 +4,7 @@
 ---
 
 ### 👩🏽‍💻 About Me
-- 🎓 Computer Science major at Towson University (GPA: 3.668, Grad: Dec 2027)
+- 🎓 Computer Science major and Robotics Club President at Towson University (GPA: 3.668, Grad: Dec 2027)
 - 🔐 Passionate about Cybersecurity, Cloud, Robotics, SecDevOps, and AI
 - 🤖 STEM / Robotics Instructor at B-360 Baltimore teaching programming, chemisty, physics & engineering concepts
 - 💡 I enjoy building projects, solving real-world problems, networking with peers and learning new tech
